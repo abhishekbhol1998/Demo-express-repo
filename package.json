@@ -1,0 +1,23 @@
+{
+  "name": "demo-express-repo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/abhishekbhol1998/Demo-express-repo#readme",
+  "bugs": {
+    "url": "https://github.com/abhishekbhol1998/Demo-express-repo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekbhol1998/Demo-express-repo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
