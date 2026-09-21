@@ -10,7 +10,6 @@ app.get('/', (req, res) => {
     res.send('Hello, World! Your Express server is working.');
 });
 
-console.log("Testing Git Revert..")
 // An API route that returns JSON data
 app.get('/api/user', (req, res) => {
     res.json({
